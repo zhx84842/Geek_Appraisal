@@ -8,7 +8,7 @@ int main(void)
 	double x = 0;
 	
 	printf("Please enter your initial value: ");
-	scanf("%lf",  &a);
+	scanf("%lf", &a);
 	y = a; 
 	printf(" x\t y\n");
 	
